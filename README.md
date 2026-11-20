@@ -1,22 +1,12 @@
-# Team Project
+# My Personal Project
 
-## Modules
-1. Login Module
-2. Product Catalog Module
-3. Shopping Cart Module
+## Project Description
+This is a sample project created using GitHub.
 
-## Branches
-- main
-- feature-login
-- feature-catalog
-- feature-cart
+## Features
+1. User Login
+2. Product Catalog
+3. Shopping Cart
 
-## Workflow
-1. Created GitHub repository.
-2. Created separate branches.
-3. Added individual modules.
-4. Created pull requests.
-5. Reviewed and merged branches.
-
-## Tools
+## Tools Used
 Git, GitHub, Visual Studio Code
