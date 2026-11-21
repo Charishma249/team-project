@@ -1,5 +1,5 @@
 def login(username, password):
-    if username == "admin" and password == "123":
-        print("Login successful")
+    if username == "admin" and password == "1234":
+        return "Login successful"
     else:
-        print("Invalid login")
+        return "Invalid username or password"
